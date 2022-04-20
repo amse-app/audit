@@ -7,4 +7,5 @@ export type AuditEventData = {
     representation?: string;
   };
   by: string;
+  time?: string;
 };
